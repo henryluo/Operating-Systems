@@ -1,0 +1,1 @@
+cmd_/home/henry/Documents/EC440/mytimer/km/mytimer.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.5.0-27-generic/scripts/module-common.lds --build-id  -o /home/henry/Documents/EC440/mytimer/km/mytimer.ko /home/henry/Documents/EC440/mytimer/km/mytimer.o /home/henry/Documents/EC440/mytimer/km/mytimer.mod.o
